@@ -11,3 +11,5 @@
 python3 automation.py 
 
 ```
+
+The background color is `#ffffff`
