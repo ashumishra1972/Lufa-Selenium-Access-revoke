@@ -12,4 +12,4 @@ python3 automation.py
 
 ```
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+** Note: Make sure you pass your account credentials in the script and Employer-D code**
