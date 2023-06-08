@@ -8,7 +8,8 @@
 # Usage 
 
 ```
-python3 automation.py 
+python3 access_revoke.py
+python3 email_delegation.py
 
 ```
 
