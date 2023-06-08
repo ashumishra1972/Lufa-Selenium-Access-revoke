@@ -12,5 +12,5 @@ python3 automation.py
 
 ```
 
-** Note: Make sure you pass your account credentials in the script and Employer-D code\n
+** Note: Make sure you pass your account credentials in the script and Employer-D code,
 2. Make Sure you pass your own env variable to gam in code **
