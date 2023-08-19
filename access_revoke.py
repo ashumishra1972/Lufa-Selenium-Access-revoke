@@ -109,7 +109,7 @@ def run_script_for_number(num):
 
 # example list of numbers to run the script for
 
-numbers_list = [4583,4851,4933,4868,2433,4997,4935,2375,3247,4946]
+numbers_list = [1234]
 
 #numbers_list = [4485,4930,4023,3376,3342,3336,4701,2481,4969,4796,4784,4738,5020,3341,4284,4717,4748,4855]
 # loop through the list and run the script for each number
